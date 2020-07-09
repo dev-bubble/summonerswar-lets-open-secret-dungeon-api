@@ -1,0 +1,20 @@
+{
+  "name": "summonerswar-lets-open-secret-dungeon-api",
+  "version": "0.0.1",
+  "description": "서머너즈워 비던 열자 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-bubble/summonerswar-lets-open-secret-dungeon-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-bubble/summonerswar-lets-open-secret-dungeon-api/issues"
+  },
+  "homepage": "https://github.com/dev-bubble/summonerswar-lets-open-secret-dungeon-api#readme",
+  "dependencies": {}
+}
