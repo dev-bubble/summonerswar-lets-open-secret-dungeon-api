@@ -16,5 +16,7 @@
     "url": "https://github.com/dev-bubble/summonerswar-lets-open-secret-dungeon-api/issues"
   },
   "homepage": "https://github.com/dev-bubble/summonerswar-lets-open-secret-dungeon-api#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
